@@ -10,3 +10,4 @@
     - RRD - Reduced Redundancy Storage - 99,99% durability and 99,99 availability
     - Glacier - Cheaper - Backups that can be recovered in question of hour
 - Transfer aceleration enables use of cloudFront to make uploads faster
+- Successful uploads generates HTTP 200 code
